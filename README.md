@@ -1,0 +1,2 @@
+# BasicGit
+This is starting
